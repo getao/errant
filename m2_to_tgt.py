@@ -2,6 +2,7 @@ import re
 import parallel_sent_to_m2 as ps2m2
 
 no_change_indicator = "A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||"
+#bad_type = set(['Cit','Um'])
 
 def m2actions_to_sentence(src, m2actions):  # for single reference
     new_tokens = []
