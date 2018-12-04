@@ -1,5 +1,9 @@
 # ERRANT
 
+This repository is folked from https://github.com/chrisjbryant/errant. In addition to the original content, I added scripts with methods for extracting types and edits for parallel sentences (not in files) and generating the target sentence with executing the m2 actions from a source sentence. See parallel_sent_to_m2.py and m2_to_tgt.py
+
+Following is the original content in https://github.com/chrisjbryant/errant
+
 This repository contains the grammatical ERRor ANnotation Toolkit (ERRANT) described in:
 
 > Christopher Bryant, Mariano Felice, and Ted Briscoe. 2017. [**Automatic annotation and evaluation of Error Types for Grammatical Error Correction**](http://aclweb.org/anthology/P/P17/P17-1074.pdf). In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vancouver, Canada.
